@@ -18,7 +18,7 @@ Check if `String` is an IPv6 address.
 
 `npm install is-ipv6-node`
 
-## Usage Example
+## Usage
 
 ```javascript
 var isIPv6 = require("is-ipv6-node");

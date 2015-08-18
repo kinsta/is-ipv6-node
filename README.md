@@ -46,7 +46,7 @@ Distributed under the [MIT License](LICENSE).
 [npm-package-url]: https://npmjs.org/package/is-ipv6-node
 [devDependencies-status-badge]: https://david-dm.org/AnatoliyGatt/is-ipv6-node/dev-status.svg
 [devDependencies-status-page-url]: https://david-dm.org/AnatoliyGatt/is-ipv6-node#info=devDependencies
-[travis-ci-build-status-badge]: https://img.shields.io/travis/AnatoliyGatt/is-ipv6-node/master.svg
+[travis-ci-build-status-badge]: https://img.shields.io/travis/AnatoliyGatt/is-ipv6-node.svg
 [travis-ci-build-status-page-url]: https://travis-ci.org/AnatoliyGatt/is-ipv6-node
 [code-climate-status-badge]: https://codeclimate.com/github/AnatoliyGatt/is-ipv6-node/badges/gpa.svg
 [code-climate-status-page-url]: https://codeclimate.com/github/AnatoliyGatt/is-ipv6-node

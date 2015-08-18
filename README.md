@@ -10,6 +10,7 @@ Check if `String` is an IPv6 address.
 [![Node Version][node-version-badge]][node-downloads-page-url]
 [![Travis CI Build Status][travis-ci-build-status-badge]][travis-ci-build-status-page-url]
 [![Code Climate Status][code-climate-status-badge]][code-climate-status-page-url]
+[![Code Climate Coverage Status][code-climate-coverage-status-badge]][code-climate-coverage-status-page-url]
 [![Inch CI Documentation Coverage Status][inch-ci-documentation-coverage-status-badge]][inch-ci-documentation-coverage-status-page-url]
 
 [![NPM Package Statistics][npm-package-statistics-badge]][npm-package-url]
@@ -67,6 +68,9 @@ Distributed under the [MIT License](LICENSE).
 
 [code-climate-status-badge]: https://img.shields.io/codeclimate/github/AnatoliyGatt/is-ipv6-node.svg?style=flat-square
 [code-climate-status-page-url]: https://codeclimate.com/github/AnatoliyGatt/is-ipv6-node
+
+[code-climate-coverage-status-badge]: https://img.shields.io/codeclimate/coverage/github/AnatoliyGatt/is-ipv6-node.svg?style=flat-square
+[code-climate-coverage-status-page-url]: https://codeclimate.com/github/AnatoliyGatt/is-ipv6-node/coverage
 
 [inch-ci-documentation-coverage-status-badge]: https://inch-ci.org/github/AnatoliyGatt/is-ipv6-node.svg?style=flat-square
 [inch-ci-documentation-coverage-status-page-url]: https://inch-ci.org/github/AnatoliyGatt/is-ipv6-node

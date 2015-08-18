@@ -5,8 +5,8 @@ Check if `String` is an IPv6 address.
 [![NPM Package Version][npm-package-version-badge]][npm-package-url]
 [![NPM Package Downloads][npm-package-downloads-badge]][npm-package-url]
 [![devDependencies Status][devDependencies-status-badge]][devDependencies-status-page-url]
-[![Travis Build][travis-image]][travis-url]
-[![Code Climate][climate-image]][climate-url]
+[![Travis CI Build Status][travis-ci-build-status-badge]][travis-ci-build-status-page-url]
+[![Code Climate Status][code-climate-status-badge]][code-climate-status-page-url]
 
 ## Installation
 
@@ -46,7 +46,7 @@ Distributed under the [MIT License](LICENSE).
 [npm-package-url]: https://npmjs.org/package/is-ipv6-node
 [devDependencies-status-badge]: https://david-dm.org/AnatoliyGatt/is-ipv6-node/dev-status.svg
 [devDependencies-status-page-url]: https://david-dm.org/AnatoliyGatt/is-ipv6-node#info=devDependencies
-[travis-image]: https://img.shields.io/travis/AnatoliyGatt/is-ipv6-node/master.svg
-[travis-url]: https://travis-ci.org/AnatoliyGatt/is-ipv6-node
-[climate-image]: https://codeclimate.com/github/AnatoliyGatt/is-ipv6-node/badges/gpa.svg
-[climate-url]: https://codeclimate.com/github/AnatoliyGatt/is-ipv6-node
+[travis-ci-build-status-badge]: https://img.shields.io/travis/AnatoliyGatt/is-ipv6-node/master.svg
+[travis-ci-build-status-page-url]: https://travis-ci.org/AnatoliyGatt/is-ipv6-node
+[code-climate-status-badge]: https://codeclimate.com/github/AnatoliyGatt/is-ipv6-node/badges/gpa.svg
+[code-climate-status-page-url]: https://codeclimate.com/github/AnatoliyGatt/is-ipv6-node

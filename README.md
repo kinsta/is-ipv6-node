@@ -8,8 +8,6 @@ Check if `String` is an IPv6 address.
 [![devDependencies Status][devDependencies-status]][devDependencies-url]
 [![Travis Build][travis-image]][travis-url]
 
-[![NPM Statistics][npm-statistics-image]][npm-url]
-
 ## Installation
 
 `npm install is-ipv6-node`
@@ -53,4 +51,3 @@ Distributed under the [MIT License](LICENSE).
 [devDependencies-url]: https://david-dm.org/AnatoliyGatt/is-ipv6-node#info=devDependencies
 [travis-image]: https://img.shields.io/travis/AnatoliyGatt/is-ipv6-node/master.svg
 [travis-url]: https://travis-ci.org/AnatoliyGatt/is-ipv6-node
-[npm-statistics-image]: https://nodei.co/npm/is-ipv6-node.png?downloads=true&downloadRank=true&stars=true

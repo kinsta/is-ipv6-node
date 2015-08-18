@@ -4,7 +4,7 @@ Check if `String` is an IPv6 address.
 
 [![NPM Package Version Badge][npm-package-version-badge]][npm-package-url]
 [![NPM Package Downloads Badge][npm-package-downloads-badge]][npm-package-url]
-[![devDependencies Status][devDependencies-status]][devDependencies-url]
+[![devDependencies Status][devDependencies-status-badge]][devDependencies-status-page-url]
 [![Travis Build][travis-image]][travis-url]
 [![Code Climate][climate-image]][climate-url]
 
@@ -44,8 +44,8 @@ Distributed under the [MIT License](LICENSE).
 [npm-package-version-badge]: https://img.shields.io/npm/v/is-ipv6-node.svg
 [npm-package-downloads-badge]: https://img.shields.io/npm/dm/is-ipv6-node.svg
 [npm-package-url]: https://npmjs.org/package/is-ipv6-node
-[devDependencies-status]: https://david-dm.org/AnatoliyGatt/is-ipv6-node/dev-status.svg
-[devDependencies-url]: https://david-dm.org/AnatoliyGatt/is-ipv6-node#info=devDependencies
+[devDependencies-status-badge]: https://david-dm.org/AnatoliyGatt/is-ipv6-node/dev-status.svg
+[devDependencies-status-page-url]: https://david-dm.org/AnatoliyGatt/is-ipv6-node#info=devDependencies
 [travis-image]: https://img.shields.io/travis/AnatoliyGatt/is-ipv6-node/master.svg
 [travis-url]: https://travis-ci.org/AnatoliyGatt/is-ipv6-node
 [climate-image]: https://codeclimate.com/github/AnatoliyGatt/is-ipv6-node/badges/gpa.svg

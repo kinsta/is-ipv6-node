@@ -5,6 +5,8 @@ Check if `String` is an IPv6 address.
 [![NPM Package Version][npm-package-version-badge]][npm-package-url]
 [![NPM Package Downloads][npm-package-downloads-badge]][npm-package-url]
 [![devDependencies Status][devDependencies-status-badge]][devDependencies-status-page-url]
+[![Node Version][node-version-badge]][node-downloads-page-url]
+
 [![Travis CI Build Status][travis-ci-build-status-badge]][travis-ci-build-status-page-url]
 [![Code Climate Status][code-climate-status-badge]][code-climate-status-page-url]
 
@@ -43,13 +45,22 @@ $ npm test
 
 Distributed under the [MIT License](LICENSE).
 
-[npm-package-version-badge]: https://img.shields.io/npm/v/is-ipv6-node.svg?style=flat-square
-[npm-package-downloads-badge]: https://img.shields.io/npm/dm/is-ipv6-node.svg?style=flat-square
 [npm-package-url]: https://npmjs.org/package/is-ipv6-node
+
+[npm-package-version-badge]: https://img.shields.io/npm/v/is-ipv6-node.svg?style=flat-square
+
+[npm-package-downloads-badge]: https://img.shields.io/npm/dm/is-ipv6-node.svg?style=flat-square
+
 [devDependencies-status-badge]: https://david-dm.org/AnatoliyGatt/is-ipv6-node/dev-status.svg?style=flat-square
 [devDependencies-status-page-url]: https://david-dm.org/AnatoliyGatt/is-ipv6-node#info=devDependencies
+
+[node-version-badge]: https://img.shields.io/node/v/is-ipv6-node.svg?style=flat-square
+[node-downloads-page-url]: https://nodejs.org/download/
+
 [travis-ci-build-status-badge]: https://img.shields.io/travis/AnatoliyGatt/is-ipv6-node.svg?style=flat-square
 [travis-ci-build-status-page-url]: https://travis-ci.org/AnatoliyGatt/is-ipv6-node
+
 [code-climate-status-badge]: https://img.shields.io/codeclimate/github/AnatoliyGatt/is-ipv6-node.svg?style=flat-square
 [code-climate-status-page-url]: https://codeclimate.com/github/AnatoliyGatt/is-ipv6-node
+
 [npm-package-statistics-badge]: https://nodei.co/npm/telize-node.png?downloads=true&downloadRank=true&stars=true

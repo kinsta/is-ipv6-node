@@ -3,7 +3,7 @@
 Check if `String` is an IPv6 address.
 
 [![NPM Package Version Badge][npm-package-version-badge]][npm-package-url]
-[![NPM Downloads][downloads-image]][downloads-url]
+[![NPM Package Downloads Badge][npm-package-downloads-badge]][npm-package-url]
 [![devDependencies Status][devDependencies-status]][devDependencies-url]
 [![Travis Build][travis-image]][travis-url]
 [![Code Climate][climate-image]][climate-url]
@@ -42,9 +42,8 @@ $ npm test
 Distributed under the [MIT License](LICENSE).
 
 [npm-package-version-badge]: https://img.shields.io/npm/v/is-ipv6-node.svg
+[npm-package-downloads-badge]: https://img.shields.io/npm/dm/is-ipv6-node.svg
 [npm-package-url]: https://npmjs.org/package/is-ipv6-node
-[downloads-image]: https://img.shields.io/npm/dm/is-ipv6-node.svg
-[downloads-url]: https://npmjs.org/package/is-ipv6-node
 [devDependencies-status]: https://david-dm.org/AnatoliyGatt/is-ipv6-node/dev-status.svg
 [devDependencies-url]: https://david-dm.org/AnatoliyGatt/is-ipv6-node#info=devDependencies
 [travis-image]: https://img.shields.io/travis/AnatoliyGatt/is-ipv6-node/master.svg

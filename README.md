@@ -2,8 +2,8 @@
 
 Check if `String` is an IPv6 address.
 
-[![NPM Package Version Badge][npm-package-version-badge]][npm-package-url]
-[![NPM Package Downloads Badge][npm-package-downloads-badge]][npm-package-url]
+[![NPM Package Version][npm-package-version-badge]][npm-package-url]
+[![NPM Package Downloads][npm-package-downloads-badge]][npm-package-url]
 [![devDependencies Status][devDependencies-status-badge]][devDependencies-status-page-url]
 [![Travis Build][travis-image]][travis-url]
 [![Code Climate][climate-image]][climate-url]

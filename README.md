@@ -6,6 +6,7 @@ Check if `String` is an IPv6 address.
 [![NPM Downloads][downloads-image]][downloads-url]
 [![devDependencies Status][devDependencies-status]][devDependencies-url]
 [![Travis Build][travis-image]][travis-url]
+[![Code Climate][climate-image]][climate-url]
 
 ## Installation
 
@@ -48,3 +49,5 @@ Distributed under the [MIT License](LICENSE).
 [devDependencies-url]: https://david-dm.org/AnatoliyGatt/is-ipv6-node#info=devDependencies
 [travis-image]: https://img.shields.io/travis/AnatoliyGatt/is-ipv6-node/master.svg
 [travis-url]: https://travis-ci.org/AnatoliyGatt/is-ipv6-node
+[climate-image]: https://codeclimate.com/github/AnatoliyGatt/is-ipv6-node/badges/gpa.svg
+[climate-url]: https://codeclimate.com/github/AnatoliyGatt/is-ipv6-node

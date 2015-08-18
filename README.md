@@ -8,6 +8,8 @@ Check if `String` is an IPv6 address.
 [![Travis CI Build Status][travis-ci-build-status-badge]][travis-ci-build-status-page-url]
 [![Code Climate Status][code-climate-status-badge]][code-climate-status-page-url]
 
+[![NPM Package Statistics][npm-package-statistics-badge]][npm-package-url]
+
 ## Installation
 
 `npm install is-ipv6-node`
@@ -50,3 +52,4 @@ Distributed under the [MIT License](LICENSE).
 [travis-ci-build-status-page-url]: https://travis-ci.org/AnatoliyGatt/is-ipv6-node
 [code-climate-status-badge]: https://img.shields.io/codeclimate/github/AnatoliyGatt/is-ipv6-node.svg?style=flat-square
 [code-climate-status-page-url]: https://codeclimate.com/github/AnatoliyGatt/is-ipv6-node
+[npm-package-statistics-badge]: https://nodei.co/npm/telize-node.png?downloads=true&downloadRank=true&stars=true

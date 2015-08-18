@@ -4,3 +4,9 @@ node_js:
   - "0.11"
   - "0.10"
 sudo: false
+addons:
+  code_climate:
+    repo_token: 79fac9aecd202a79babfe747767556ea1d307067a3ebbf138981752180ee8ce2
+script: "npm run test-ci"
+after_script:
+  - codeclimate-test-reporter < ./coverage/lconv.info

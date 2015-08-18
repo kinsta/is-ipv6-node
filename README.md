@@ -2,8 +2,6 @@
 
 Check if `String` is an IPv6 address.
 
-[![NPM Package Statistics][npm-package-statistics-badge]][npm-package-url]
-
 [![NPM Package Version][npm-package-version-badge]][npm-package-url]
 [![NPM Package License][npm-package-license-badge]][npm-package-license-url]
 [![NPM Package Downloads][npm-package-downloads-badge]][npm-package-url]
@@ -14,6 +12,8 @@ Check if `String` is an IPv6 address.
 [![Code Climate Status][code-climate-status-badge]][code-climate-status-page-url]
 [![Code Climate Coverage Status][code-climate-coverage-status-badge]][code-climate-coverage-status-page-url]
 [![Inch CI Documentation Coverage Status][inch-ci-documentation-coverage-status-badge]][inch-ci-documentation-coverage-status-page-url]
+
+[![NPM Package Statistics][npm-package-statistics-badge]][npm-package-url]
 
 ## Installation
 

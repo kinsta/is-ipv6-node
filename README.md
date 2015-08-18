@@ -48,5 +48,5 @@ Distributed under the [MIT License](LICENSE).
 [devDependencies-status-page-url]: https://david-dm.org/AnatoliyGatt/is-ipv6-node#info=devDependencies
 [travis-ci-build-status-badge]: https://img.shields.io/travis/AnatoliyGatt/is-ipv6-node.svg?style=flat-square
 [travis-ci-build-status-page-url]: https://travis-ci.org/AnatoliyGatt/is-ipv6-node
-[code-climate-status-badge]: https://codeclimate.com/github/AnatoliyGatt/is-ipv6-node/badges/gpa.svg?style=flat-square
+[code-climate-status-badge]: https://img.shields.io/codeclimate/github/AnatoliyGatt/is-ipv6-node.svg?style=flat-square
 [code-climate-status-page-url]: https://codeclimate.com/github/AnatoliyGatt/is-ipv6-node

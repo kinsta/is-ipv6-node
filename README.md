@@ -71,4 +71,4 @@ Distributed under the [MIT License](LICENSE).
 [inch-ci-documentation-coverage-status-badge]: https://inch-ci.org/github/AnatoliyGatt/is-ipv6-node.svg?style=flat-square
 [inch-ci-documentation-coverage-status-page-url]: https://inch-ci.org/github/AnatoliyGatt/is-ipv6-node
 
-[npm-package-statistics-badge]: https://nodei.co/npm/telize-node.png?downloads=true&downloadRank=true&stars=true
+[npm-package-statistics-badge]: https://nodei.co/npm/is-ipv6-node.png?downloads=true&downloadRank=true&stars=true

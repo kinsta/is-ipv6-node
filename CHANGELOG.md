@@ -17,7 +17,7 @@
 * Set sudo to false in .travis.yml
 * Add codeclimate-test-reporter as dev dependency
 * Add istanbul as dev dependency
-* Update .travis.yml to run tests agains all major versions of node from 0.10 to 0.12
+* Update .travis.yml to run tests against all major versions of node from 0.10 to 0.12
 * Change node version from (>= 0.8.x) to (>= 0.10.x) in package.json
 * Add Inch CI documentation coverage badge to README.md
 * Add node version badge to README.md

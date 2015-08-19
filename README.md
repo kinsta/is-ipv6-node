@@ -1,4 +1,4 @@
-![is-ipv6-node](https://cldup.com/v8he-2NwRt.png)
+![is-ipv6-node Logo][logo]
 
 Check if `String` is an IPv6 address.
 
@@ -47,6 +47,8 @@ $ npm test
 ## License
 
 Distributed under the [MIT License](LICENSE).
+
+[logo]: https://cldup.com/v8he-2NwRt.png
 
 [npm-package-url]: https://npmjs.org/package/is-ipv6-node
 

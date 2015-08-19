@@ -1,4 +1,4 @@
-# is-ipv6 for Node.js
+![is-ipv6-node](https://cldup.com/v8he-2NwRt.png)
 
 Check if `String` is an IPv6 address.
 

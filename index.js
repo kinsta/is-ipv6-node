@@ -7,7 +7,7 @@
  * @license MIT
  */
 
-"use strict";
+'use strict';
 
 /**
  * @public
@@ -15,4 +15,4 @@
  * @returns {Function} - Function to check if {String} is an IPv6 address.
  */
 
-module.exports = require("./lib/is-ipv6");
+module.exports = require('./lib/is-ipv6');

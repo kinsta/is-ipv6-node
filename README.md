@@ -22,10 +22,10 @@ Check if `String` is an IPv6 address.
 ## Usage Example
 
 ```javascript
-var isIPv6 = require("is-ipv6-node");
+var isIPv6 = require('is-ipv6-node');
 
-console.log(isIPv6("2a02:2770::21a:4aff:feb3:2ee"));
-console.log(isIPv6("Hello World!"));
+console.log(isIPv6('2a02:2770::21a:4aff:feb3:2ee'));
+console.log(isIPv6('Hello World!'));
 ```
 
 ***

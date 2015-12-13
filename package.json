@@ -3,7 +3,6 @@
   "version": "1.0.6",
   "description": "Check if String is an IPv6 address.",
   "keywords": [
-    "check",
     "validate",
     "ip",
     "ipv6",

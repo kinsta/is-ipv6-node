@@ -3,7 +3,6 @@
 
 * Update dev dependencies
 * Fix invalid publishConfig value in package.json
-* Update dev dependencies
 * Remove keyword from package.json
 * Update package.json
 * Add keyword to package.json

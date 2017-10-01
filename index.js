@@ -3,7 +3,7 @@
  * @description Entry point for is-ipv6-node module.
  * @version 1.0.7
  * @author Anatoliy Gatt [anatoliy.gatt@aol.com]
- * @copyright Copyright (c) 2015-2016 Anatoliy Gatt
+ * @copyright Copyright (c) 2015-2017 Anatoliy Gatt
  * @license MIT
  */
 

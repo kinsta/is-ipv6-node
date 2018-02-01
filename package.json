@@ -71,5 +71,6 @@
   ],
   "preferGlobal": false,
   "private": false,
+  "types": "./index.d.ts",
   "publishConfig": {}
 }

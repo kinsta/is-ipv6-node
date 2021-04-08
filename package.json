@@ -31,7 +31,7 @@
   ],
   "main": "index.js",
   "bin": {},
-  "man": {},
+  "man": [],
   "directories": {},
   "repository": {
     "type": "git",
@@ -67,6 +67,7 @@
     "x64",
     "ia32",
     "arm",
+    "arm64",
     "mips"
   ],
   "preferGlobal": false,
